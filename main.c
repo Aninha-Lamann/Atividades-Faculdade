@@ -28,7 +28,6 @@ int main() {
                 sorteado = 1;
                 printf("Numero sorteado com sucesso!\n");
                 break;
-
             case 2:
                 if (sorteado == 0) {
                     printf("Primeiro sorteie um numero!\n");
@@ -43,24 +42,20 @@ int main() {
                         printf("Muito alto! Tente novamente.\n");
                 }
                 break;
-
             case 3:
                 if (sorteado)
                     printf("O numero secreto e: %d\n", magic);
                 else
                     printf("Nenhum numero foi sorteado ainda!\n");
                 break;
-
             case 4:
                 printf("Saindo do jogo...\n");
                 break;
-
             default:
                 printf("Opcao invalida! Tente novamente.\n");
                 break;
         }
-
     } while (opcao != 4);
-
     return 0;
 }
+
