@@ -57,4 +57,5 @@ O projeto está dividido em duas frentes principais conforme os arquivos forneci
 Projeto desenvolvido para fins de estudo e automação de processos de cadastro. Sinta-se à vontade para clonar e adaptar.
 
 ---
-**Desenvolvido por [Ana Carolina Lamann]** 🚀
+
+**Desenvolvido por Ana Carolina Lamann** 🚀
